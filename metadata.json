@@ -1,0 +1,6 @@
+{
+  "name": "InterviewIQ AI",
+  "description": "An immersive AI interview preparation platform with resume optimization, behavioral analysis, performance reports, interactive roadmaps, and gamified practice.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
